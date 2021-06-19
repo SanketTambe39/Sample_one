@@ -1,1 +1,2 @@
 second file
+coflict after creating new branch 
